@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NeliHarbuzava/react-native-stylized-placeholder.git"
-  },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "react-native",
@@ -17,10 +13,6 @@
   ],
   "author": "Neli Harbuzava",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/NeliHarbuzava/react-native-stylized-placeholder/issues"
-  },
-  "homepage": "https://github.com/NeliHarbuzava/react-native-stylized-placeholder#readme",
   "devDependencies": {
     "babel-jest": "23.0.1",
     "babel-preset-react-native": "4.0.0",
